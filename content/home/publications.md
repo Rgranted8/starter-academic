@@ -21,4 +21,4 @@ design:
 ---
 2021 
 
-[*An Ecohealth approach to energy justice: Evidence from Malawi's energy transition from biomass to electrification* ](https://www.sciencedirect.com/science/article/pii/S2214629620304503)(Grant *et al.,* 2021) First Author
+**Grant, R.**, McCauley, D., Von Maltzan, M., Grattage, R. and Mwathunga, E., 2021. [An Ecohealth approach to energy justice: Evidence from Malawi’s energy transition from biomass to electrification](https://www.sciencedirect.com/science/article/pii/S2214629620304503). *Energy Research & Social Science*, *75*, p.101875.
